@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Página de GitHub</h2>
+  <h2 style="color:blue"">Página de GitHub</h2>
   <p>Esto es un párrafo centrado</p>
 </div>
 
