@@ -1,17 +1,14 @@
 #### Insertar párrafo destacado:
 
-  ```Esto es un texto
+  ```
+  Esto es un texto
   en varias líneas que quiero
   que destaque en mi archivo.
   ```
-* Código en java (Arduino):
-  ```java
-  void setup() {
-    pinMode(13,OUTPUT);
-    }
-  void loop() {
-    digitalWrite(13,HIGH);
-  }
+
+
+
+
   ```
 * Código en HTML
   ```html
