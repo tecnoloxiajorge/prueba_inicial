@@ -15,16 +15,19 @@ En consola (símbolo del sistema):
   void setup() {
     pinMode(13,OUTPUT);
     }
-  void draw() {
+  void loop() {
     digitalWrite(13,HIGH);
   }
   ```
 
-* ...or include within your HTML
+* ...o HTML
 
   ```html
-    <script src="https://cdn.jsdelivr.net/npm/frappe-charts@1.1.0/dist/frappe-charts.min.iife.js"></script>
-    <!-- or -->
-    <script src="https://unpkg.com/frappe-charts@1.1.0/dist/frappe-charts.min.iife.js"></script>
+    <html>
+      <body>
+        Hello world!!
+      </body>
+    
+    </html>
   ```
 
