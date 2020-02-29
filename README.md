@@ -1,6 +1,7 @@
 <div align="center">
-<h2 color="red">Frappe Charts</h2>
-<p>GitHub-inspired modern, intuitive and responsive charts with zero dependencies</p>
+  <h2>Página de GitHub</h2>
+  <p>Esto es un párrafo centrado</p>
 </div>
-<p>GitHub-inspired modern, intuitive and responsive charts with zero dependencies</p>
+
+<p>Este párrafo esta sin centrar</p>
 
