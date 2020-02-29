@@ -27,7 +27,15 @@ En consola (símbolo del sistema):
       <body>
         Hello world!!
       </body>
-    
     </html>
+  ```
+  * ...o Processing:
+  ```processing
+  void setup() {
+    size(400,200);
+    }
+  void draw() {
+    background(0);
+  }
   ```
 
