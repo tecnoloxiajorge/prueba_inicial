@@ -6,8 +6,8 @@
   ```
 
   and include in your project:
-  ```js
-  import { Chart } from "frappe-charts"
+  ```python
+  print ("Hello world")
   ```
 
   ...or include following for es-modules(eg:vuejs):
