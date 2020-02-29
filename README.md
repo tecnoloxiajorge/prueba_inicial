@@ -1,8 +1,8 @@
-#### Insertar código
-En consola (símbolo del sistema):
-* Código en python:
-  ```python
-  print ("Hello world")
+#### Insertar párrafo destacado:
+
+  ```Esto es un texto
+  en varias líneas que quiero
+  que destaque en mi archivo.
   ```
 * Código en java (Arduino):
   ```java
