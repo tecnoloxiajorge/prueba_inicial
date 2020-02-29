@@ -1,16 +1,10 @@
 #### Insertar código
 En consola (símbolo del sistema):
-
-  ```console
-  $ pip install python
-  ```
-
-  ... código en python:
+* Código en python:
   ```python
   print ("Hello world")
   ```
-
-  ...o código en java (Arduino):
+* Código en java (Arduino):
   ```java
   void setup() {
     pinMode(13,OUTPUT);
@@ -19,9 +13,7 @@ En consola (símbolo del sistema):
     digitalWrite(13,HIGH);
   }
   ```
-
-* ...o HTML
-
+* Código en HTML
   ```html
     <html>
       <body>
@@ -29,7 +21,7 @@ En consola (símbolo del sistema):
       </body>
     </html>
   ```
-  * ...o Processing:
+* Código en Processing:
   ```processing
   void setup() {
     size(400,200);
