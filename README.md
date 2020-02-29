@@ -1,8 +1,9 @@
-## Imagenes
+<div aling="center">
+  
+# Prueba de Github
+### Subtítulo
+Esto es un párrafo
+</div>
+Esto es otro párrafo
 
-![Arduino](/imagenes/arduino.jpeg)
-
-Imagen con html:<br>
-<img src="/imagenes/arduino.jpeg" width="200px">
-<img src="/imagenes/arduino.jpeg" width="30%">
 
