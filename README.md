@@ -1,20 +1,23 @@
-#### Installation
-* Install via [`npm`](https://www.npmjs.com/get-npm):
+#### Insertar código
+En consola (símbolo del sistema):
 
   ```console
-  $ npm install frappe-charts
+  $ pip install python
   ```
 
-  and include in your project:
+  ... código en python:
   ```python
   print ("Hello world")
   ```
 
-  ...or include following for es-modules(eg:vuejs):
-  ```js
-  import { Chart } from 'frappe-charts/dist/frappe-charts.esm.js'
-  // import css
-  import 'frappe-charts/dist/frappe-charts.min.css'
+  ...o código en java (Arduino):
+  ```java
+  void setup() {
+    pinMode(13,OUTPUT);
+    }
+  void draw() {
+    digitalWrite(13,HIGH);
+  }
   ```
 
 * ...or include within your HTML
